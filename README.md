@@ -39,5 +39,7 @@ cd your-folder-name
 # Compile and run
 dotnet run
 
+```
+https://github.com/Hvlv/Numberdle
 © 2025 – Made with C#
 
